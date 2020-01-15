@@ -1,4 +1,5 @@
 
+
 // 将vue,App,route,store目录全部引入
 // <!-- App组件父组件的集合体,父组件在引入子组件 -->
 //main在引入APP就能包含所有组件
@@ -16,7 +17,3 @@ new Vue({
   store,
   render: h => h(App)
 }).$mount('#app')
-
-
-
-
