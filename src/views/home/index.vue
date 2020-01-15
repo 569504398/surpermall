@@ -16,7 +16,7 @@
 <script>
 import navbar  from "components/common/navbar/NavBar";
 import scroll   from "components/common/scroll/Scroll.vue";
-import {debounce,formatDate}   from "common/utility.js";
+import { formatDate}   from "common/utility.js";
 
 
 import tabController  from "components/content/tabController/TabController";
